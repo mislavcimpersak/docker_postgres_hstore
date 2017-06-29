@@ -15,4 +15,6 @@ mislavcimpersak/postgres_hstore:9.6
 
 Available on [docker hub](https://hub.docker.com/r/mislavcimpersak/postgres_hstore/).
 
+--------
+
 Credit for the original script for enabling hstore goes to [aidanlister](https://github.com/aidanlister/postgres-hstore).
