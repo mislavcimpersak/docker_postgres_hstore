@@ -1,6 +1,15 @@
-# postgres-hstore
+# postgres-hstore docker image
 
-Postgres 9.3/9.4/9.5/9.6 with hstore extension enabled using the official Docker based image.
+Postgres 9.3/9.4/9.5/9.6 with hstore extension enabled based on the official [Docker PostgreSQL image](https://github.com/docker-library/postgres/).
+
+Available images:
+
+```
+mislavcimpersak/postgres_hstore:9.3
+mislavcimpersak/postgres_hstore:9.4
+mislavcimpersak/postgres_hstore:9.5
+mislavcimpersak/postgres_hstore:9.6
+```
 
 Available on [docker hub](https://hub.docker.com/r/mislavcimpersak/postgres_hstore/).
 
